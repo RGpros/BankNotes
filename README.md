@@ -1,1 +1,0 @@
-bunu ben kodladım editleyip ben yaptım diyenin amına koysunlar. onun dışında kullanımında bir sakınca yok. iyi oyunlar.
