@@ -1,2 +1,1 @@
-# BankNotes
-A check plugin to easily transfer your money
+bunu ben kodladım editleyip ben yaptım diyenin amına koysunlar. onun dışında kullanımında bir sakınca yok. iyi oyunlar.
